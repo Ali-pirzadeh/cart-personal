@@ -15,7 +15,7 @@ function SideBar() {
           </p>
         </div>
         <div className="mx-2">
-          <button className="border-1 rounded-md px-3 py-2">Chat new</button>
+          <button className="border-1 rounded-md px-3 py-2 hover:bg-black hover:text-white">Chat new</button>
         </div>
       </div>
     </>
