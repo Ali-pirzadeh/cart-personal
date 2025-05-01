@@ -12,7 +12,7 @@ function Home() {
             <Main />
           </div>
           <div className="md:flex-[1] w-full">
-            <SideBar />
+              <SideBar />
           </div>
         </div>
       </Container>
