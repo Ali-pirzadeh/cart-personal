@@ -165,8 +165,8 @@ function Main() {
           </label>
         </div>
       </div>
-      <div className="md:flex mx-4 gap-3 mt-3 pb-5">
-        <div className="flex-[5] border-1 border-gray-200  items-center rounded-md my-auto bg-gray-300 px-2 py-6">
+      <div className="flex flex-col md:flex-row mx-4 gap-3 gap-y-3 mt-3 pb-5">
+        <div className="flex-[5] border-1 border-gray-200  items-center rounded-md my-auto bg-gray-300 px-2 py-6 ">
           <p className="ml-2 text-xl">your order will start within the next few minutes</p>
         </div>
         <div className="flex-[2] border-2 border-orange-500 rounded-md px-2 py-2 bg-yellow-50">
